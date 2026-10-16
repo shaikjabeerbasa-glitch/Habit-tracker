@@ -139,6 +139,3 @@ Open the local URL printed in the terminal. Save edited files to trigger develop
 | `npm run preview` | Serves the production build locally after running the build command. |
 | `npm run lint` | Checks the code with ESLint. |
 
-## Source
-
-This project is based on [Web Dev Simplified's React Habit Tracker](https://github.com/WebDevSimplified/react-habit-tracker).
